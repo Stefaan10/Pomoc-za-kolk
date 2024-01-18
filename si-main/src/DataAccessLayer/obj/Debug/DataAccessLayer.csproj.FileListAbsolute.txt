@@ -1,0 +1,12 @@
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\si\src\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\si\src\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\si\src\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lazon\OneDrive\Desktop\si\src\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lazon\OneDrive\Desktop\si\src\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\si\src\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

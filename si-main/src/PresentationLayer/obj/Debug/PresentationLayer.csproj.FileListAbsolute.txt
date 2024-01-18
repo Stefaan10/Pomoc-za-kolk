@@ -1,0 +1,45 @@
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\obj\Debug\PresentationLayer.Veterinari.resources
+C:\Users\lazon\OneDrive\Desktop\vezba kol\Prezentacija!\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\obj\Debug\PresentationLayer.Veterinari.resources
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\lazon\OneDrive\Desktop\si\src\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\obj\Debug\PresentationLayer.Veterinari.resources
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\KOMP\Desktop\si-main\src\PresentationLayer\obj\Debug\PresentationLayer.pdb
